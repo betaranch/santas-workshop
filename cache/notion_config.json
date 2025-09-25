@@ -1,0 +1,24 @@
+{
+  "page_id": "278bc994-24ab-8163-b358-f18243e9ca9c",
+  "discovered_at": "2025-09-25T11:23:49.801546",
+  "databases": {
+    "notes": {
+      "id": "278bc994-24ab-81f5-97a3-d7c35c5dcb4d",
+      "title": "Notes/Resources",
+      "created": "2025-09-24T19:48:00.000Z",
+      "updated": "2025-09-24T22:42:00.000Z"
+    },
+    "tasks": {
+      "id": "278bc994-24ab-8136-b84a-c02ba029cd33",
+      "title": "Tasks",
+      "created": "2025-09-24T19:48:00.000Z",
+      "updated": "2025-09-24T21:07:00.000Z"
+    },
+    "projects": {
+      "id": "278bc994-24ab-817e-81bc-db906cd5ced1",
+      "title": "Projects",
+      "created": "2025-09-24T19:48:00.000Z",
+      "updated": "2025-09-24T20:59:00.000Z"
+    }
+  }
+}

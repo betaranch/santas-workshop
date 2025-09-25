@@ -1,0 +1,20 @@
+[
+  {
+    "id": "278bc994-24ab-817e-81bc-db906cd5ced1",
+    "title": "Projects",
+    "depth": 0,
+    "type": "child_database"
+  },
+  {
+    "id": "278bc994-24ab-81f5-97a3-d7c35c5dcb4d",
+    "title": "Notes/Resources",
+    "depth": 0,
+    "type": "child_database"
+  },
+  {
+    "id": "278bc994-24ab-8136-b84a-c02ba029cd33",
+    "title": "Tasks",
+    "depth": 0,
+    "type": "child_database"
+  }
+]

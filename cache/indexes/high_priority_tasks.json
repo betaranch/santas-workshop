@@ -1,0 +1,100 @@
+[
+  {
+    "id": "279bc994-24ab-8185-8be9-f0fb8c79a71b",
+    "name": "Develop marketing calendar and assets (Insta/TikTok)",
+    "priority": "High Priority",
+    "due_date": "2025-10-01",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-8114-a645-d332373a16f7",
+    "name": "Refine financing model and track initial expenses",
+    "priority": "High Priority",
+    "due_date": "2025-10-01",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-8132-9c2a-cdfe7841380a",
+    "name": "Procure themed plateware/glassware for 75 guests",
+    "priority": "High Priority",
+    "due_date": "2025-10-18",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-81fa-b7d2-e0fb0f4ff40d",
+    "name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+    "priority": "High Priority",
+    "due_date": "2025-10-03",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-81c5-8741-fb6505a14845",
+    "name": "Build sales pipeline: 10 corp contacts for daytime events",
+    "priority": "High Priority",
+    "due_date": "2025-10-05",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-8130-8752-fae6e97588cd",
+    "name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+    "priority": "High Priority",
+    "due_date": "2025-10-20",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-8184-94b3-edec4608474d",
+    "name": "Research and submit all planning permits (TCO, zoning variance)",
+    "priority": "High Priority",
+    "due_date": "2025-10-15",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-817c-b4aa-e52e6a86206a",
+    "name": "Develop marketing calendar and assets (Insta/TikTok)",
+    "priority": "High Priority",
+    "due_date": "2025-10-01",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-810a-b081-db46947eae69",
+    "name": "Refine financing model and track initial expenses",
+    "priority": "High Priority",
+    "due_date": "2025-10-01",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-81bf-a599-d30d3419609e",
+    "name": "Procure themed plateware/glassware for 75 guests",
+    "priority": "High Priority",
+    "due_date": "2025-10-18",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-816e-a967-cf741f0967f9",
+    "name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+    "priority": "High Priority",
+    "due_date": "2025-10-03",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-81a7-9c80-ce29110c7812",
+    "name": "Build sales pipeline: 10 corp contacts for daytime events",
+    "priority": "High Priority",
+    "due_date": "2025-10-05",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-814d-82ea-fb8b54db169d",
+    "name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+    "priority": "High Priority",
+    "due_date": "2025-10-20",
+    "status": "Not started"
+  },
+  {
+    "id": "279bc994-24ab-81ba-8d7c-d58e79a225ff",
+    "name": "Research and submit all planning permits (TCO, zoning variance)",
+    "priority": "High Priority",
+    "due_date": "2025-10-15",
+    "status": "Not started"
+  }
+]

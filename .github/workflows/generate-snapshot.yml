@@ -1,0 +1,153 @@
+name: Generate Project Snapshot
+
+on:
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      triggered_by:
+        description: 'Who triggered this snapshot'
+        required: false
+        default: 'Manual trigger'
+
+  # Webhook trigger from Notion
+  repository_dispatch:
+    types: [generate-snapshot]
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install python-dotenv requests
+
+    - name: Generate snapshot
+      env:
+        NOTION_API: ${{ secrets.NOTION_API }}
+      run: |
+        python scripts/compile_project_snapshot.py --no-pull
+        echo "Snapshot generated successfully"
+
+    - name: Get snapshot filename
+      id: snapshot
+      run: |
+        SNAPSHOT_FILE=$(ls -t snapshots/project_snapshot_*.md | head -1)
+        echo "file=$SNAPSHOT_FILE" >> $GITHUB_OUTPUT
+        echo "filename=$(basename $SNAPSHOT_FILE)" >> $GITHUB_OUTPUT
+        echo "Generated: $SNAPSHOT_FILE"
+
+    - name: Create timestamp
+      id: timestamp
+      run: |
+        echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        echo "time=$(date +'%H:%M:%S')" >> $GITHUB_OUTPUT
+        echo "iso=$(date -Iseconds)" >> $GITHUB_OUTPUT
+
+    - name: Copy to latest
+      run: |
+        cp ${{ steps.snapshot.outputs.file }} snapshots/latest_snapshot.md
+        echo "# Latest Snapshot" > snapshots/README.md
+        echo "" >> snapshots/README.md
+        echo "**Generated:** ${{ steps.timestamp.outputs.iso }}" >> snapshots/README.md
+        echo "**File:** ${{ steps.snapshot.outputs.filename }}" >> snapshots/README.md
+        echo "" >> snapshots/README.md
+        echo "## Download" >> snapshots/README.md
+        echo "- [Latest Snapshot](latest_snapshot.md)" >> snapshots/README.md
+        echo "- [Timestamped Version](${{ steps.snapshot.outputs.filename }})" >> snapshots/README.md
+        echo "" >> snapshots/README.md
+        echo "## How to Use" >> snapshots/README.md
+        echo "1. Download the snapshot file" >> snapshots/README.md
+        echo "2. Copy entire contents" >> snapshots/README.md
+        echo "3. Paste into Claude, ChatGPT, or any AI assistant" >> snapshots/README.md
+        echo "4. Ask strategic questions based on your role" >> snapshots/README.md
+
+    - name: Commit snapshot to repository
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add snapshots/
+        git commit -m "📸 Generate project snapshot - ${{ steps.timestamp.outputs.date }} ${{ steps.timestamp.outputs.time }}"
+        git push
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: snapshot-${{ steps.timestamp.outputs.date }}-${{ github.run_number }}
+        release_name: Project Snapshot - ${{ steps.timestamp.outputs.date }}
+        body: |
+          ## 📸 Project Snapshot Generated
+
+          **Date:** ${{ steps.timestamp.outputs.date }}
+          **Time:** ${{ steps.timestamp.outputs.time }}
+          **Triggered by:** ${{ github.event.inputs.triggered_by || 'Notion webhook' }}
+
+          ### Download Options
+          - Download the attached `.md` file below
+          - Or view in repository: `snapshots/latest_snapshot.md`
+
+          ### How to Use
+          1. Download the snapshot file
+          2. Copy all content (Ctrl+A, Ctrl+C)
+          3. Paste into any AI assistant (Claude, ChatGPT, etc.)
+          4. Ask strategic questions based on your role:
+             - Design & Creative
+             - Operations & Logistics
+             - Marketing & Revenue
+             - Team & Service
+
+          ### Quick Access
+          - [View Latest Snapshot](https://github.com/${{ github.repository }}/blob/main/snapshots/latest_snapshot.md)
+          - [All Snapshots](https://github.com/${{ github.repository }}/tree/main/snapshots)
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ${{ steps.snapshot.outputs.file }}
+        asset_name: project_snapshot_${{ steps.timestamp.outputs.date }}.md
+        asset_content_type: text/markdown
+
+    - name: Update status file
+      run: |
+        echo '{' > status.json
+        echo '  "last_generated": "${{ steps.timestamp.outputs.iso }}",' >> status.json
+        echo '  "status": "success",' >> status.json
+        echo '  "file": "${{ steps.snapshot.outputs.filename }}",' >> status.json
+        echo '  "download_url": "https://github.com/${{ github.repository }}/releases/latest/download/project_snapshot_${{ steps.timestamp.outputs.date }}.md",' >> status.json
+        echo '  "view_url": "https://github.com/${{ github.repository }}/blob/main/snapshots/latest_snapshot.md"' >> status.json
+        echo '}' >> status.json
+
+        git add status.json
+        git commit -m "Update snapshot generation status"
+        git push
+
+    - name: Summary
+      run: |
+        echo "# ✅ Snapshot Generated Successfully!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "## 📥 Download Options" >> $GITHUB_STEP_SUMMARY
+        echo "1. [Download from Release](https://github.com/${{ github.repository }}/releases/latest)" >> $GITHUB_STEP_SUMMARY
+        echo "2. [View in Repository](https://github.com/${{ github.repository }}/blob/main/snapshots/latest_snapshot.md)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "## 📊 Details" >> $GITHUB_STEP_SUMMARY
+        echo "- **File:** ${{ steps.snapshot.outputs.filename }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Generated:** ${{ steps.timestamp.outputs.iso }}" >> $GITHUB_STEP_SUMMARY
+        echo "- **Size:** $(wc -c < ${{ steps.snapshot.outputs.file }}) bytes" >> $GITHUB_STEP_SUMMARY

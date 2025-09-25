@@ -1,0 +1,9 @@
+{
+  "total_tasks": 12,
+  "by_status": {
+    "Not started": 12
+  },
+  "by_priority": {
+    "High Priority": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-09-25T11:03:34.958770",
+  "duration_seconds": 12.34372,
+  "stats": {
+    "pages_synced": 15,
+    "databases_synced": 3,
+    "errors": 2,
+    "start_time": "2025-09-25 11:03:22.615047"
+  },
+  "config": {
+    "mode": "SyncMode.INCREMENTAL",
+    "batch_size": 50,
+    "max_depth": 2,
+    "rate_limit_delay": 0.35,
+    "enable_ai": true,
+    "dry_run": false,
+    "backup": true
+  },
+  "databases_synced": [
+    "projects",
+    "tasks",
+    "notes"
+  ]
+}

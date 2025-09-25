@@ -1,0 +1,179 @@
+{
+  "278bc994-24ab-81f5-97a3-d7c35c5dcb4d": {
+    "id": "278bc994-24ab-81f5-97a3-d7c35c5dcb4d",
+    "title": "Notes/Resources",
+    "created_time": "2025-09-24T19:48:00.000Z",
+    "last_edited_time": "2025-09-24T22:42:00.000Z",
+    "properties": {
+      "Projects": {
+        "id": "%3AQO%5D",
+        "type": "relation",
+        "name": "Projects",
+        "database_id": "278bc994-24ab-817e-81bc-db906cd5ced1"
+      },
+      "Photo URL": {
+        "id": "bzg_",
+        "type": "url",
+        "name": "Photo URL"
+      },
+      "Tags": {
+        "id": "vRWq",
+        "type": "multi_select",
+        "name": "Tags",
+        "options": [
+          "Creative"
+        ]
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "name": "Name"
+      }
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "278bc994-24ab-8127-a7de-c0ec844f3a7b"
+    }
+  },
+  "278bc994-24ab-8136-b84a-c02ba029cd33": {
+    "id": "278bc994-24ab-8136-b84a-c02ba029cd33",
+    "title": "Tasks",
+    "created_time": "2025-09-24T19:48:00.000Z",
+    "last_edited_time": "2025-09-24T21:07:00.000Z",
+    "properties": {
+      "Projects": {
+        "id": "%3AQ%5B%7B",
+        "type": "relation",
+        "name": "Projects",
+        "database_id": "278bc994-24ab-817e-81bc-db906cd5ced1"
+      },
+      "Status": {
+        "id": "DAAg",
+        "type": "status",
+        "name": "Status"
+      },
+      "Created time": {
+        "id": "XFxt",
+        "type": "created_time",
+        "name": "Created time"
+      },
+      "Person": {
+        "id": "dbcg",
+        "type": "people",
+        "name": "Person"
+      },
+      "Priority": {
+        "id": "sm%5BW",
+        "type": "select",
+        "name": "Priority",
+        "options": [
+          "High Priority"
+        ]
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "name": "Name"
+      },
+      "Due Date": {
+        "id": "9b98c611-9856-4bd2-985f-16ffed581c8d",
+        "type": "date",
+        "name": "Due Date"
+      }
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "278bc994-24ab-8127-a7de-c0ec844f3a7b"
+    }
+  },
+  "278bc994-24ab-817e-81bc-db906cd5ced1": {
+    "id": "278bc994-24ab-817e-81bc-db906cd5ced1",
+    "title": "Projects",
+    "created_time": "2025-09-24T19:48:00.000Z",
+    "last_edited_time": "2025-09-24T20:59:00.000Z",
+    "properties": {
+      "Sub-item": {
+        "id": "%40NCa",
+        "type": "relation",
+        "name": "Sub-item",
+        "database_id": "278bc994-24ab-817e-81bc-db906cd5ced1"
+      },
+      "Total Tasks": {
+        "id": "AafO",
+        "type": "rollup",
+        "name": "Total Tasks",
+        "rollup_config": {
+          "rollup_property_name": "Name",
+          "relation_property_name": "Tasks",
+          "rollup_property_id": "title",
+          "relation_property_id": "k@:l",
+          "function": "count"
+        }
+      },
+      "Files & media": {
+        "id": "JFd~",
+        "type": "files",
+        "name": "Files & media"
+      },
+      "Tags": {
+        "id": "RLLl",
+        "type": "multi_select",
+        "name": "Tags",
+        "options": [
+          "Urgent",
+          "Vendor",
+          "Creative",
+          "Budget",
+          "Risk",
+          "Milestone",
+          "Team",
+          "Review",
+          "This Week",
+          "NYE"
+        ]
+      },
+      "Due Date": {
+        "id": "cF%5D%7C",
+        "type": "date",
+        "name": "Due Date"
+      },
+      "Notes/Resources": {
+        "id": "h%5Dk%60",
+        "type": "relation",
+        "name": "Notes/Resources",
+        "database_id": "278bc994-24ab-81f5-97a3-d7c35c5dcb4d"
+      },
+      "files": {
+        "id": "jS%40N",
+        "type": "files",
+        "name": "files"
+      },
+      "Tasks": {
+        "id": "k%40%3Al",
+        "type": "relation",
+        "name": "Tasks",
+        "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+      },
+      "Status": {
+        "id": "qpcv",
+        "type": "status",
+        "name": "Status"
+      },
+      "Parent item": {
+        "id": "rl%3F%3F",
+        "type": "relation",
+        "name": "Parent item",
+        "database_id": "278bc994-24ab-817e-81bc-db906cd5ced1"
+      },
+      "Name": {
+        "id": "title",
+        "type": "title",
+        "name": "Name"
+      }
+    },
+    "parent": {
+      "type": "page_id",
+      "page_id": "278bc994-24ab-8127-a7de-c0ec844f3a7b"
+    }
+  }
+}

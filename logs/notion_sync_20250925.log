@@ -1,0 +1,36 @@
+2025-09-25 11:03:12,420 - __main__ - INFO - Discovering all databases...
+2025-09-25 11:03:16,551 - __main__ - INFO - Discovered 3 databases
+2025-09-25 11:03:22,614 - __main__ - INFO - Starting full synchronization...
+2025-09-25 11:03:22,615 - __main__ - INFO - Discovering all databases...
+2025-09-25 11:03:33,281 - __main__ - INFO - Discovered 3 databases
+2025-09-25 11:03:33,281 - __main__ - INFO - Pulling contents from database 278bc994-24ab-817e-81bc-db906cd5ced1
+2025-09-25 11:03:33,753 - __main__ - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/278bc994-24ab-817e-81bc-db906cd5ced1/query
+2025-09-25 11:03:33,754 - __main__ - INFO - Pulled 0 pages from database 278bc994-24ab-817e-81bc-db906cd5ced1
+2025-09-25 11:03:33,754 - __main__ - INFO - Pulling contents from database 278bc994-24ab-8136-b84a-c02ba029cd33
+2025-09-25 11:03:34,317 - __main__ - INFO - Pulled 15 pages from database 278bc994-24ab-8136-b84a-c02ba029cd33
+2025-09-25 11:03:34,317 - __main__ - INFO - Pulling contents from database 278bc994-24ab-81f5-97a3-d7c35c5dcb4d
+2025-09-25 11:03:34,944 - __main__ - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/278bc994-24ab-81f5-97a3-d7c35c5dcb4d/query
+2025-09-25 11:03:34,945 - __main__ - INFO - Pulled 0 pages from database 278bc994-24ab-81f5-97a3-d7c35c5dcb4d
+2025-09-25 11:03:34,945 - __main__ - INFO - Creating AI-optimized indexes...
+2025-09-25 11:03:34,958 - __main__ - INFO - AI indexes created successfully
+2025-09-25 11:03:34,959 - __main__ - INFO - Sync completed in 12.34 seconds
+2025-09-25 11:03:34,959 - __main__ - INFO - Pages synced: 15
+2025-09-25 11:03:34,959 - __main__ - INFO - Databases synced: 3
+2025-09-25 11:03:34,959 - __main__ - INFO - Errors: 2
+2025-09-25 11:15:07,439 - __main__ - INFO - Starting full synchronization...
+2025-09-25 11:15:07,439 - __main__ - INFO - Discovering all databases...
+2025-09-25 11:15:10,804 - __main__ - INFO - Discovered 3 databases
+2025-09-25 11:15:10,804 - __main__ - INFO - Pulling contents from database 278bc994-24ab-817e-81bc-db906cd5ced1
+2025-09-25 11:15:11,282 - __main__ - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/278bc994-24ab-817e-81bc-db906cd5ced1/query
+2025-09-25 11:15:11,283 - __main__ - INFO - Pulled 0 pages from database 278bc994-24ab-817e-81bc-db906cd5ced1
+2025-09-25 11:15:11,283 - __main__ - INFO - Pulling contents from database 278bc994-24ab-8136-b84a-c02ba029cd33
+2025-09-25 11:15:11,821 - __main__ - INFO - Pulled 15 pages from database 278bc994-24ab-8136-b84a-c02ba029cd33
+2025-09-25 11:15:11,821 - __main__ - INFO - Pulling contents from database 278bc994-24ab-81f5-97a3-d7c35c5dcb4d
+2025-09-25 11:15:12,302 - __main__ - ERROR - API request failed: 400 Client Error: Bad Request for url: https://api.notion.com/v1/databases/278bc994-24ab-81f5-97a3-d7c35c5dcb4d/query
+2025-09-25 11:15:12,303 - __main__ - INFO - Pulled 0 pages from database 278bc994-24ab-81f5-97a3-d7c35c5dcb4d
+2025-09-25 11:15:12,303 - __main__ - INFO - Creating AI-optimized indexes...
+2025-09-25 11:15:12,315 - __main__ - INFO - AI indexes created successfully
+2025-09-25 11:15:12,316 - __main__ - INFO - Sync completed in 4.88 seconds
+2025-09-25 11:15:12,316 - __main__ - INFO - Pages synced: 15
+2025-09-25 11:15:12,316 - __main__ - INFO - Databases synced: 3
+2025-09-25 11:15:12,316 - __main__ - INFO - Errors: 2

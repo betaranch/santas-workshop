@@ -1,0 +1,78 @@
+# 01 - Permits & Legal
+ 
+**Lead**: Byron
+**Deadline**: All secured by Oct 31, 2025
+**Priority**: CRITICAL PATH
+## Overview
+Track all approvals, timelines, and contingencies for the Elf Speakeasy pop-up venue.
+## Key Permits Required
+ 
+### Zoning/TCO (Temporary Certificate of Occupancy)
+- **Contact**: City of Bend Planning (541-388-5580; permitcenter@bendoregon.gov)
+- **Requirement**: Confirm retail/office for events; sprinkler variance (fire watch)
+- **Status**: [ ] Not started
+
+ 
+### Fire Safety
+- **Contact**: Fire Marshal (541-693-6911)
+- **Requirement**: Occupancy load (75 max)
+- **Status**: [ ] Not started
+
+ 
+### ADA/Accessibility
+- **Contact**: accessibility@bendoregon.gov (541-693-2198)
+- **Requirements**:
+
+  - Temp ramp ($300-800)
+  - Heated ADA trailer ($3K-6K, Sitting Pretty Potties: 541-668-3499)
+- **Status**: [ ] Not started
+
+ 
+### Liquor License
+- **Contact**: OLCC (855-907-0836; olcc.alcohollicensing@oregon.gov)
+- **Cost**: Temp sales ($100-200)
+- **Status**: [ ] Not started
+
+ 
+### Health/Food
+- **Contact**: Deschutes County (541-322-7400)
+- **Cost**: Temp restaurant ($200-400)
+- **Status**: [ ] Not started
+
+ 
+### Business/Insurance
+- **Contact**: Finance (541-388-5580 ext. 8)
+- **Cost**: Liability ($1K-2.5K)
+- **Status**: [ ] Not started
+
+ 
+### Utilities/Triple Net
+- **Contact**: Owner + Cascade Gas (800-233-3107)
+- **Estimate**: $1K-2K/mo heating
+- **Status**: [ ] Not started
+
+ 
+## Risk Mitigation
+- **Permit delays**: Start fire watch planning as backup
+- **ADA compliance**: Book portable solutions early
+- **Insurance**: Get multiple quotes
+
+ 
+## Weekly Checklist
+- [ ] Monday: Check permit status
+- [ ] Wednesday: Follow up on pending items
+- [ ] Friday: Update team on progress
+
+ 
+## Related Documents
+- Permits_Checklist.docx (Google Drive)
+- Floor plan for fire marshal (Figma)
+- Insurance quotes (pending)
+
+ 
+## Notes
+- Weekly sync required - permits are critical path
+- Use Airtable for deadline alerts
+- All permits must be displayed on-site
+
+<!-- NOTION_TASKS_START -->

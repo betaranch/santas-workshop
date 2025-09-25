@@ -1,0 +1,472 @@
+{
+  "timestamp": "2025-09-25T12:28:36.391877",
+  "dry_run": true,
+  "duplicates_found": 7,
+  "tasks_removed": 14,
+  "kept_tasks": [
+    {
+      "id": "279bc994-24ab-81e5-adbd-c4db9a1c5f3e",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Develop marketing calendar and assets (Insta/TikTok)",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-8162-b4f3-e558fae967db",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Refine financing model and track initial expenses",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-819e-988b-dcf2a6a10c31",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8084-9709-f2c58e4f1665"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Procure themed plateware/glassware for 75 guests",
+        "Due Date": "2025-10-18"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81f2-b5b5-e2318804e313",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+        "Due Date": "2025-10-03"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81cb-9d0e-dd6b1dc807f2",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Build sales pipeline: 10 corp contacts for daytime events",
+        "Due Date": "2025-10-05"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-816c-bc0d-f4e9750edb6d",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8169-9f0c-cd764ec3a646"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+        "Due Date": "2025-10-20"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81bf-8c7f-f0a552397292",
+      "created": "2025-09-25T18:16:00.000Z",
+      "updated": "2025-09-25T18:16:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T18:16:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Research and submit all planning permits (TCO, zoning variance)",
+        "Due Date": "2025-10-15"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    }
+  ],
+  "removed_tasks": [
+    {
+      "id": "279bc994-24ab-8185-8be9-f0fb8c79a71b",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Develop marketing calendar and assets (Insta/TikTok)",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-817c-b4aa-e52e6a86206a",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Develop marketing calendar and assets (Insta/TikTok)",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-8114-a645-d332373a16f7",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Refine financing model and track initial expenses",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-810a-b081-db46947eae69",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Refine financing model and track initial expenses",
+        "Due Date": "2025-10-01"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-8132-9c2a-cdfe7841380a",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8084-9709-f2c58e4f1665"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Procure themed plateware/glassware for 75 guests",
+        "Due Date": "2025-10-18"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81bf-a599-d30d3419609e",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8084-9709-f2c58e4f1665"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Procure themed plateware/glassware for 75 guests",
+        "Due Date": "2025-10-18"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81fa-b7d2-e0fb0f4ff40d",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+        "Due Date": "2025-10-03"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-816e-a967-cf741f0967f9",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+        "Due Date": "2025-10-03"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81c5-8741-fb6505a14845",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Build sales pipeline: 10 corp contacts for daytime events",
+        "Due Date": "2025-10-05"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81a7-9c80-ce29110c7812",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Build sales pipeline: 10 corp contacts for daytime events",
+        "Due Date": "2025-10-05"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-8130-8752-fae6e97588cd",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8169-9f0c-cd764ec3a646"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+        "Due Date": "2025-10-20"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-814d-82ea-fb8b54db169d",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-8169-9f0c-cd764ec3a646"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+        "Due Date": "2025-10-20"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-8184-94b3-edec4608474d",
+      "created": "2025-09-25T00:40:00.000Z",
+      "updated": "2025-09-25T00:40:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:40:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Research and submit all planning permits (TCO, zoning variance)",
+        "Due Date": "2025-10-15"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    },
+    {
+      "id": "279bc994-24ab-81ba-8d7c-d58e79a225ff",
+      "created": "2025-09-25T00:38:00.000Z",
+      "updated": "2025-09-25T00:38:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [
+          "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+        ],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T00:38:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Research and submit all planning permits (TCO, zoning variance)",
+        "Due Date": "2025-10-15"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    }
+  ]
+}

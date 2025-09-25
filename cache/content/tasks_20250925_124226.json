@@ -1,0 +1,192 @@
+[
+  {
+    "id": "279bc994-24ab-81a7-adf6-dbe1ea31e370",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Design and source merch (flasks, kits; $3.75K target)",
+      "Due Date": "2025-10-15"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e5-adbd-c4db9a1c5f3e",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Develop marketing calendar and assets (Insta/TikTok)",
+      "Due Date": "2025-10-01"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8162-b4f3-e558fae967db",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Refine financing model and track initial expenses",
+      "Due Date": "2025-10-01"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819e-988b-dcf2a6a10c31",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Procure themed plateware/glassware for 75 guests",
+      "Due Date": "2025-10-18"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81f2-b5b5-e2318804e313",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+      "Due Date": "2025-10-03"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8121-82ae-e7bc4699221e",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Finalize Figma floor plan and design mocks",
+      "Due Date": "2025-10-12"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8196-bd09-c7a756e0a60d",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Craft 3-5 story vignettes for themes (e.g., Hearth tales)",
+      "Due Date": "2025-10-08"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81cb-9d0e-dd6b1dc807f2",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Build sales pipeline: 10 corp contacts for daytime events",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-816c-bc0d-f4e9750edb6d",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:41:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+      "Due Date": "2025-10-20"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b4-a886-c02b816bada6",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:42:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop and test 2 signature cocktails + appetizer pairings",
+      "Due Date": "2025-10-10"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81bf-8c7f-f0a552397292",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:41:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Research and submit all planning permits (TCO, zoning variance)",
+      "Due Date": "2025-09-26"
+    }
+  },
+  {
+    "id": "278bc994-24ab-801b-aabb-f883a68daae6",
+    "created": "2025-09-24T21:18:00.000Z",
+    "updated": "2025-09-24T21:18:00.000Z",
+    "properties": {
+      "Projects": [],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-24T21:18:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "New Task",
+      "Due Date": null
+    }
+  }
+]

@@ -1,0 +1,30 @@
+---
+name: "Project Structure & Navigation"
+description: "File organization and tool integration guide. Helps AI understand project layout and appropriate tool usage."
+globs: ["**/*.json", "**/README*", "**/*structure*", "**/*organization*"]
+alwaysApply: false
+priority: low
+---
+
+# Project Structure & Navigation
+
+## Core Organization
+- `Docs/`: Project documentation and planning materials
+- `scripts/`: Light Python automation (Notion API only)
+- Root: High-level coordination files
+
+## Tool Integration
+- **Notion**: Primary collaboration hub for tasks and ideation
+- **Figma**: Visual design, floor plans, mood boards
+- **Airtable**: Operations, CRM, inventory tracking
+- **Google Drive**: Contracts, detailed plans, vendor docs
+
+## File Conventions
+- Category_Subtopic_Date.ext format
+- Descriptive, searchable naming
+- Date-stamped for version tracking
+
+## AI Navigation
+- Prioritize creative work over technical implementation
+- Reference appropriate tools for different tasks
+- Distinguish planning docs (Docs/) from automation (scripts/)

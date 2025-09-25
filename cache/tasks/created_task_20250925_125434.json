@@ -1,0 +1,31 @@
+{
+  "created_at": "2025-09-25T12:54:34.856866",
+  "task_id": "279bc994-24ab-818e-bece-f5e0bee9d4dc",
+  "task_name": "Review and finalize Q4 budget allocations",
+  "properties": {
+    "Name": {
+      "title": [
+        {
+          "text": {
+            "content": "Review and finalize Q4 budget allocations"
+          }
+        }
+      ]
+    },
+    "Status": {
+      "status": {
+        "name": "Not started"
+      }
+    },
+    "Priority": {
+      "select": {
+        "name": "High Priority"
+      }
+    },
+    "Due Date": {
+      "date": {
+        "start": "2025-10-07"
+      }
+    }
+  }
+}

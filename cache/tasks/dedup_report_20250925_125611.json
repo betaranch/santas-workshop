@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-09-25T12:56:11.216321",
+  "dry_run": false,
+  "duplicates_found": 1,
+  "tasks_removed": 1,
+  "kept_tasks": [
+    {
+      "id": "279bc994-24ab-818e-bece-f5e0bee9d4dc",
+      "created": "2025-09-25T19:54:00.000Z",
+      "updated": "2025-09-25T19:54:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T19:54:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Review and finalize Q4 budget allocations",
+        "Due Date": "2025-10-07"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    }
+  ],
+  "removed_tasks": [
+    {
+      "id": "279bc994-24ab-81f2-8ed3-ce26f56791f2",
+      "created": "2025-09-25T19:54:00.000Z",
+      "updated": "2025-09-25T19:54:00.000Z",
+      "archived": false,
+      "properties": {
+        "Projects": [],
+        "Status": "Not started",
+        "Created time": {
+          "id": "XFxt",
+          "type": "created_time",
+          "created_time": "2025-09-25T19:54:00.000Z"
+        },
+        "Person": [],
+        "Priority": "High Priority",
+        "Name": "Review and finalize Q4 budget allocations",
+        "Due Date": "2025-10-07"
+      },
+      "database_id": "278bc994-24ab-8136-b84a-c02ba029cd33"
+    }
+  ]
+}
