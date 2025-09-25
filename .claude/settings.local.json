@@ -9,7 +9,8 @@
       "Bash(for project in 04_Marketing_Sales 05_Team 06_Budget_Finance 07_Vendors_Suppliers 08_Evaluation_Scaling)",
       "Bash(do echo \"Syncing $project...\")",
       "Bash(done)",
-      "Read(//d/**)"
+      "Read(//d/**)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

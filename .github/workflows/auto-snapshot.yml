@@ -1,0 +1,283 @@
+name: Auto-Generate Project Snapshot
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'  # Runs at 00:00, 06:00, 12:00, 18:00 UTC
+
+  # Allow manual trigger from GitHub website
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual trigger'
+        required: false
+        default: 'Manual update requested'
+
+  # Trigger on push to main branch (keeps it current)
+  push:
+    branches: [ main ]
+    paths:
+      - 'Docs/**'
+      - 'cache/**'
+      - 'scripts/compile_project_snapshot.py'
+
+jobs:
+  generate-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install python-dotenv requests
+
+    - name: Pull latest from Notion
+      env:
+        NOTION_API: ${{ secrets.NOTION_API }}
+      run: |
+        # Pull latest tasks from Notion
+        python scripts/notion_task_manager.py read || echo "Could not pull from Notion"
+
+        # Generate task files
+        python scripts/generate_tasks_md.py || echo "Could not generate task files"
+
+    - name: Generate snapshot
+      env:
+        NOTION_API: ${{ secrets.NOTION_API }}
+      run: |
+        python scripts/compile_project_snapshot.py --no-pull
+
+        # Copy to a consistent filename for easy access
+        cp snapshots/project_snapshot_*.md snapshot.md 2>/dev/null || true
+
+        # Also copy to snapshots folder with consistent name
+        cp snapshots/project_snapshot_*.md snapshots/latest.md 2>/dev/null || true
+
+        # Also create a simple HTML wrapper for better viewing
+        cat > docs/index.html << 'EOF'
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Santa's Workshop - Project Snapshot</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+                body {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+                    line-height: 1.6;
+                    max-width: 900px;
+                    margin: 0 auto;
+                    padding: 20px;
+                    background: #f5f5f5;
+                }
+                .container {
+                    background: white;
+                    padding: 30px;
+                    border-radius: 10px;
+                    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                }
+                h1 { color: #2b6cb0; }
+                h2 { color: #1a4d8f; margin-top: 30px; }
+                .meta {
+                    background: #e8f4f8;
+                    padding: 15px;
+                    border-radius: 5px;
+                    margin: 20px 0;
+                }
+                .download-btn {
+                    display: inline-block;
+                    background: #2b6cb0;
+                    color: white;
+                    padding: 12px 24px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    margin: 10px 10px 10px 0;
+                }
+                .download-btn:hover {
+                    background: #1a4d8f;
+                }
+                .copy-btn {
+                    display: inline-block;
+                    background: #48a14d;
+                    color: white;
+                    padding: 12px 24px;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    margin: 10px 10px 10px 0;
+                }
+                .copy-btn:hover {
+                    background: #3d8b41;
+                }
+                pre {
+                    background: #f4f4f4;
+                    padding: 15px;
+                    border-radius: 5px;
+                    overflow-x: auto;
+                }
+                .timestamp {
+                    color: #666;
+                    font-size: 0.9em;
+                }
+                #snapshot-content {
+                    display: none;
+                    white-space: pre-wrap;
+                    font-family: monospace;
+                    background: #f9f9f9;
+                    padding: 20px;
+                    border-radius: 5px;
+                    margin-top: 20px;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>🎅 Santa's Workshop - Project Snapshot</h1>
+
+                <div class="meta">
+                    <p><strong>Auto-generated every 6 hours</strong></p>
+                    <p class="timestamp">Last updated: <span id="timestamp"></span></p>
+                    <p>This snapshot contains the complete project state for AI analysis.</p>
+                </div>
+
+                <h2>📥 Access Options</h2>
+
+                <a href="snapshot.md" download="project_snapshot.md" class="download-btn">
+                    ⬇️ Download Markdown
+                </a>
+
+                <button onclick="copySnapshot()" class="copy-btn">
+                    📋 Copy to Clipboard
+                </button>
+
+                <a href="snapshot.md" class="download-btn" style="background: #666;">
+                    👁️ View Raw
+                </a>
+
+                <h2>🤖 How to Use with AI</h2>
+                <ol>
+                    <li>Click "Copy to Clipboard" above</li>
+                    <li>Open Claude, ChatGPT, or any AI assistant</li>
+                    <li>Paste the entire content</li>
+                    <li>Ask questions based on your role:
+                        <ul>
+                            <li><strong>Design:</strong> "What themed elements would enhance immersion?"</li>
+                            <li><strong>Operations:</strong> "What are the critical path dependencies?"</li>
+                            <li><strong>Marketing:</strong> "What partnership opportunities exist?"</li>
+                        </ul>
+                    </li>
+                </ol>
+
+                <h2>📊 Quick Stats</h2>
+                <ul id="stats">
+                    <li>Loading snapshot information...</li>
+                </ul>
+
+                <div id="message" style="padding: 10px; margin: 20px 0; border-radius: 5px; display: none;"></div>
+
+                <div id="snapshot-content"></div>
+            </div>
+
+            <script>
+                // Load and display snapshot
+                fetch('snapshot.md')
+                    .then(response => response.text())
+                    .then(content => {
+                        document.getElementById('snapshot-content').textContent = content;
+
+                        // Update stats
+                        const lines = content.split('\n').length;
+                        const chars = content.length;
+                        const tasks = (content.match(/###\s+⬜/g) || []).length;
+
+                        document.getElementById('stats').innerHTML = `
+                            <li>📝 ${chars.toLocaleString()} characters</li>
+                            <li>📄 ${lines.toLocaleString()} lines</li>
+                            <li>✅ ${tasks} tasks tracked</li>
+                        `;
+
+                        // Update timestamp
+                        const now = new Date();
+                        document.getElementById('timestamp').textContent = now.toLocaleString();
+                    })
+                    .catch(err => {
+                        console.error('Error loading snapshot:', err);
+                        document.getElementById('stats').innerHTML = '<li>Error loading snapshot</li>';
+                    });
+
+                function copySnapshot() {
+                    const content = document.getElementById('snapshot-content').textContent;
+
+                    navigator.clipboard.writeText(content).then(() => {
+                        showMessage('✅ Snapshot copied to clipboard! Now paste it into any AI assistant.', 'success');
+                    }).catch(err => {
+                        // Fallback for older browsers
+                        const textArea = document.createElement('textarea');
+                        textArea.value = content;
+                        document.body.appendChild(textArea);
+                        textArea.select();
+                        document.execCommand('copy');
+                        document.body.removeChild(textArea);
+                        showMessage('✅ Snapshot copied to clipboard! Now paste it into any AI assistant.', 'success');
+                    });
+                }
+
+                function showMessage(text, type) {
+                    const messageDiv = document.getElementById('message');
+                    messageDiv.textContent = text;
+                    messageDiv.style.display = 'block';
+                    messageDiv.style.background = type === 'success' ? '#d4edda' : '#f8d7da';
+                    messageDiv.style.color = type === 'success' ? '#155724' : '#721c24';
+
+                    setTimeout(() => {
+                        messageDiv.style.display = 'none';
+                    }, 5000);
+                }
+            </script>
+        </body>
+        </html>
+        EOF
+
+        echo "Snapshot generated and saved to docs/"
+
+    - name: Create docs directory if needed
+      run: |
+        mkdir -p docs
+
+        # Ensure GitHub Pages will work
+        touch docs/.nojekyll
+
+    - name: Commit and push updates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        # Add all changes
+        git add -A
+
+        # Commit with timestamp
+        git diff --staged --quiet || git commit -m "🔄 Auto-update project snapshot - $(date +'%Y-%m-%d %H:%M:%S')"
+
+        # Push changes
+        git push || echo "No changes to push"
+
+    - name: Update status
+      run: |
+        echo "# Snapshot Generation Complete" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "✅ Snapshot has been updated" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "## Access the snapshot:" >> $GITHUB_STEP_SUMMARY
+        echo "- [View Snapshot](https://betaranch.github.io/santas-workshop/)" >> $GITHUB_STEP_SUMMARY
+        echo "- [Download](https://betaranch.github.io/santas-workshop/snapshot.md)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Generated: $(date)" >> $GITHUB_STEP_SUMMARY
