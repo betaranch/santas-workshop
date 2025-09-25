@@ -39,7 +39,9 @@ jobs:
         python scripts/compile_project_snapshot.py --no-pull
 
         # Copy to root with consistent name
-        cp snapshots/project_snapshot_*.md LATEST_SNAPSHOT.md
+        SNAPSHOT_FILE=$(ls -t snapshots/project_snapshot_*.md | head -1)
+        cp "$SNAPSHOT_FILE" LATEST_SNAPSHOT.md
+        echo "Copied $SNAPSHOT_FILE to LATEST_SNAPSHOT.md"
 
     - name: Commit snapshot
       run: |
