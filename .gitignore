@@ -1,0 +1,62 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache and temporary files
+cache/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Backups
+backups/
+*.backup
+*.bak
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+
+# Node modules (if you add any)
+node_modules/
+
+# Snapshots folder (auto-generated)
+snapshots/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Test files
+*.test
+test_*.py
+
+# Local notes
+local_notes/
+personal_notes/
