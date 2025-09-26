@@ -1,0 +1,1776 @@
+[
+  {
+    "id": "279bc994-24ab-81a6-b0a6-f95d66a12b9c",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan year 2 improvements list",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81ee-898b-e14ad7837648",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create franchise operations manual",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819e-9a57-ee7ddc4165d4",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Document IP for potential licensing",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8161-bbec-dab940a454dc",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Research Portland expansion opportunity",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-818d-8b4c-d71a28d1740a",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan 'traveling speakeasy' model",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d9-9ac0-c7eeb7a382c8",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create monthly P&L review process",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8184-927b-fb63cb093e97",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Analyze cocktail mix (bestsellers)",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81f1-8056-f49ff3e277ae",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Track hourly sales patterns",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-814e-aa83-d30c2b7ba2a2",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Document all operating procedures",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-817c-804b-cd8abace537c",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set up NPS score tracking",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b0-bc06-dc1be194f5c8",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create post-visit email survey",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8150-901c-ecb0f9f64e66",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Install Tripleseat for event tracking",
+      "Due Date": "2025-10-30"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81cb-9d16-de4577018599",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Find snow removal service for parking",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8188-8404-c808f0456cf8",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Get security system quote from ADT",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81da-af6c-c7412553b3fd",
+    "created": "2025-09-25T23:07:00.000Z",
+    "updated": "2025-09-25T23:07:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:07:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Source photo booth from ShutterBooth PDX",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819d-9ce5-e7d976739ebd",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Rent sound system from Epic Entertainment",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819c-a88a-fd3815860d39",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Get cleaning supply wholesale account",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8143-a09d-c982eb336562",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Source sustainable straws and napkins",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e7-b91d-ea56d7b87295",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Find local bakery for appetizer partnership",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81ee-9908-e1dc5e09d892",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Get linen service quotes (tablecloths, napkins)",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81ac-8504-ca0b7a6b5b12",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Source vintage glassware from Cheerful Redesign",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8191-94a2-e8dbde82b4cc",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Find commercial ice supplier (300 lbs/night)",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-811b-8a45-c7f97a14e1e9",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Source local spirits from Crater Lake/Bendistillery",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8184-ba8a-d4695f6337a2",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Get quotes from 3 alcohol distributors",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8133-845e-d7201e2cfd38",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create investor update template",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8177-91ad-da510b60043f",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan for 15% credit card fee impact",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-817e-86dc-c64c45b5b361",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set aside 10% contingency fund",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81bb-8b65-fea9a7eda7f7",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create daily manager cash-out procedure",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8105-a9cb-ee890c2c30f0",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Budget marketing spend ($5K opening month)",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d1-b802-ea26b156b5fe",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Price COGS for each cocktail (target 18-22%)",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e2-ad03-fa3c829ae619",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set par levels: 3 days alcohol, 2 days food",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-814c-aa7b-e0c725ec2edf",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Negotiate net-30 terms with suppliers",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-815b-ab22-dc7b2c9c256c",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Calculate precise break-even (# covers per night)",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e2-8d3a-dbb17861ec0f",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create weekly cash flow projection",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81a8-8f06-d1cc6a9147fe",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set up QuickBooks or Wave accounting",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8125-98a7-ef9d5eeef87e",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Open business checking at Chase or Wells Fargo",
+      "Due Date": "2025-10-09"
+    }
+  },
+  {
+    "id": "279bc994-24ab-818d-a611-f1e18bd375c6",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Design performance incentives",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81ac-9ad0-fba488267732",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Create emergency contact list",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8193-89ba-dc70cee2308c",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Plan staff pre-shift meetings",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81eb-b34c-fe8c982a2016",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Write opening night run-of-show",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8124-a05c-c74573cc7aae",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Create tip pooling policy",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e9-b759-fee1e81f80c7",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Set up Homebase or When I Work for scheduling",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8153-bede-ebfda59a5b78",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Source costume elements (elf ears, vests, etc.)",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8137-ab4c-dd3e0bcc46c3",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Create character sheets for staff roles",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819f-bacd-e51c95026563",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Design 2-day training program",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81dd-9294-df024dbafb20",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Create interview questions testing personality fit",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8148-9f03-e05e775a6290",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Post jobs on Bend Craigslist and Indeed",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8185-a38c-ee32630c034c",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Write job descriptions: 2 bartenders, 4 servers, 2 hosts",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81da-9e96-d252de6a1efa",
+    "created": "2025-09-25T23:06:00.000Z",
+    "updated": "2025-09-25T23:06:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:06:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create TikTok content calendar (3x per week)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8185-96cb-d4f81ea4369c",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set up Google Business listing",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8149-8408-f727f0413265",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan Black Friday promotion",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d5-bea3-fbc3908f7087",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create gift card/merchandise program",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8147-96d7-f5fc1096d568",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design corporate party packages ($2K minimum)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-815e-b4f4-e4b927e26a0b",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Contact 10 local influencers for opening week",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8115-aa07-f0e0f9531d67",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create press release for Bend Bulletin",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b8-9419-f21f97aa171a",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Price structure: $15 cocktails, $65 tasting menu",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8145-8ef9-cc415949e58c",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set up Resy or OpenTable for reservations",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8170-80da-de69c881f335",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Build simple booking website on Squarespace",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8185-b963-f9901709a335",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create 'soft opening' invite list (50 VIPs)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-813d-9161-f50a3e0c4d15",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design logo incorporating elf + prohibition elements",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819c-96ea-f46697dae223",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Reserve Instagram handle @elfspeakeasybend",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-815a-ba4a-c70d5d5318ee",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create 'secret password' system for entry",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b3-b7f9-d01f49c6072d",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Write social media photo captions bank",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8170-9d89-d2be02e13507",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design take-home token (builds return visits)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81fd-8d95-f29fd7b2e900",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create scent profile (pine, cinnamon, leather)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b2-ae0a-c5eb3c67f6ce",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan lighting design (warm, Instagram-worthy)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8188-9f6b-c214638b9a62",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Source or create 'elf workshop' props",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8168-a025-cb0a9d1ec36b",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design menu with themed cocktail names",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-816a-a33f-c5fee4081912",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create playlist mixing holiday with speakeasy jazz",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8121-8e41-f501a5569d17",
+    "created": "2025-09-25T23:05:00.000Z",
+    "updated": "2025-09-25T23:05:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:05:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Script surprise moments (every 15 min as per doctrine)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d6-b98c-d351755430ba",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design 'portal' entry experience from street",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8139-bcf1-c9479c5abab2",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create 5 character profiles for key staff roles",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-817e-82ce-fc14ae4d7352",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Write backstory: 'How elves party after hours'",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8150-b6b1-d9e8f8335636",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design breakdown procedure (30 min target)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81ec-aef4-da79a025195c",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create daily setup checklist (45 min target)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-811e-97b9-ddaa1fc0cdcc",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Build photo backdrop areas (minimum 3)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81a9-9959-ca68e84d5750",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Configure space heaters for 3,300 sq ft",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8148-b7ef-fa9e70697def",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Set up POS system and test credit card processing",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d1-9dc7-cfa29fef556d",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Install temporary lighting for ambiance",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-811a-922b-f460e6fa569c",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create storage plan for inventory",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8196-88f1-da2477737e97",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design bar layout for 2 bartenders working",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8154-930c-e5b2cfdd3f91",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Calculate bathroom capacity (1 per 40 guests minimum)",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-815c-b949-d8f93ebf8f02",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Plan coat check system for winter months",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8188-8740-ff640784b80f",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Design queue/waiting area for overflow",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e3-aa3c-d12ff48738ce",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Map emergency exits and post evacuation routes",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8111-b82a-fb36305af69d",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Low Priority",
+      "Name": "Create scaled floor plan in Figma showing 75-person capacity",
+      "Due Date": "2025-10-13"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81cc-89ed-c29a5c67040a",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "File 'doing business as' (DBA) if needed",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81a1-8cbd-eb56a17ab6ca",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Get business license from City of Bend",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8126-871f-e58e6ec4a43c",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Verify parking requirements for 75 guests",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8109-ab86-f95bef7cce63",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Check noise ordinance restrictions for entertainment",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-814e-aad4-fc60e8fbfcfa",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Confirm ADA compliance requirements",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b6-ba29-dc5d3f7622c6",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Draft customer liability waivers",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81a0-b58c-fa1398d7a475",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Research if 'speakeasy' theme triggers special permits",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8106-b261-ece1873548d6",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "File for temporary food service permit with Deschutes County",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81d7-81b9-cd18cbfdf9ae",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Get quote for $2M liability insurance policy",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-818f-9b2f-da4835c05f4e",
+    "created": "2025-09-25T23:04:00.000Z",
+    "updated": "2025-09-25T23:04:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:04:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Apply for OLCC temporary liquor license (8 week lead time!)",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-817c-a514-f4d780f96466",
+    "created": "2025-09-25T23:03:00.000Z",
+    "updated": "2025-09-25T23:03:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:03:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Schedule fire marshal inspection for occupancy permit",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8169-9647-cbc674404e1c",
+    "created": "2025-09-25T23:03:00.000Z",
+    "updated": "2025-09-25T23:03:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T23:03:00.000Z'}",
+      "Person": [],
+      "Priority": "Medium Priority",
+      "Name": "Call City of Bend Planning (541-388-5580) for initial consultation",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-818e-bece-f5e0bee9d4dc",
+    "created": "2025-09-25T19:54:00.000Z",
+    "updated": "2025-09-25T19:58:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T19:54:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Review and finalize Q4 budget allocations",
+      "Due Date": "2025-10-07"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81a7-adf6-dbe1ea31e370",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:45:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Design and source merch (flasks, kits; $3.75K target)",
+      "Due Date": "2025-10-15"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81e5-adbd-c4db9a1c5f3e",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Develop marketing calendar and assets (Insta/TikTok)",
+      "Due Date": "2025-10-01"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8162-b4f3-e558fae967db",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Refine financing model and track initial expenses",
+      "Due Date": "2025-10-01"
+    }
+  },
+  {
+    "id": "279bc994-24ab-819e-988b-dcf2a6a10c31",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Procure themed plateware/glassware for 75 guests",
+      "Due Date": "2025-10-18"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81f2-b5b5-e2318804e313",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:44:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Source and quote rustic furniture/props (Cheerful Redesign, etc.)",
+      "Due Date": "2025-10-03"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8121-82ae-e7bc4699221e",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:45:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Finalize Figma floor plan and design mocks",
+      "Due Date": "2025-10-12"
+    }
+  },
+  {
+    "id": "279bc994-24ab-8196-bd09-c7a756e0a60d",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Craft 3-5 story vignettes for themes (e.g., Hearth tales)",
+      "Due Date": "2025-10-08"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81cb-9d0e-dd6b1dc807f2",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T18:16:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Build sales pipeline: 10 corp contacts for daytime events",
+      "Due Date": "2025-10-05"
+    }
+  },
+  {
+    "id": "279bc994-24ab-816c-bc0d-f4e9750edb6d",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:41:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Recruit and schedule 6-8 part-time wait staff/bartenders",
+      "Due Date": "2025-10-20"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81b4-a886-c02b816bada6",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:42:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop and test 2 signature cocktails + appetizer pairings",
+      "Due Date": "2025-10-10"
+    }
+  },
+  {
+    "id": "279bc994-24ab-81bf-8c7f-f0a552397292",
+    "created": "2025-09-25T18:16:00.000Z",
+    "updated": "2025-09-25T19:41:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-25T18:16:00.000Z'}",
+      "Person": [],
+      "Priority": "High Priority",
+      "Name": "Research and submit all planning permits (TCO, zoning variance)",
+      "Due Date": "2025-09-26"
+    }
+  },
+  {
+    "id": "278bc994-24ab-801b-aabb-f883a68daae6",
+    "created": "2025-09-24T21:18:00.000Z",
+    "updated": "2025-09-24T21:18:00.000Z",
+    "properties": {
+      "Projects": [],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-24T21:18:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "New Task",
+      "Due Date": null
+    }
+  }
+]

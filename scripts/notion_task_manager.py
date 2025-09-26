@@ -380,6 +380,68 @@ class NotionTaskManager:
             })
             return False
 
+    def create_task(self, task_name: str, status: str = "Not started",
+                   priority: str = None, due_date: str = None,
+                   project_id: str = None) -> Optional[str]:
+        """Create a new task in the database"""
+        # Get first database ID if not specified
+        if not self.config.get("task_databases"):
+            print("No task databases configured. Run 'discover' first.")
+            return None
+
+        db_id = list(self.config["task_databases"].keys())[0]
+        url = "https://api.notion.com/v1/pages"
+
+        # Build task properties
+        task_data = {
+            "parent": {"database_id": db_id},
+            "properties": {
+                "Name": {
+                    "title": [{"text": {"content": task_name}}]
+                },
+                "Status": {
+                    "status": {"name": status}
+                }
+            }
+        }
+
+        # Add optional properties
+        if priority:
+            task_data["properties"]["Priority"] = {
+                "select": {"name": priority}
+            }
+
+        if due_date:
+            task_data["properties"]["Due Date"] = {
+                "date": {"start": due_date}
+            }
+
+        if project_id:
+            task_data["properties"]["Projects"] = {
+                "relation": [{"id": project_id}]
+            }
+
+        response = self._api_request("POST", url, task_data)
+
+        if response:
+            task_id = response.get("id")
+            self.operations_log.append({
+                "action": "create",
+                "task_id": task_id,
+                "task_name": task_name,
+                "timestamp": datetime.now().isoformat(),
+                "success": True
+            })
+            return task_id
+        else:
+            self.operations_log.append({
+                "action": "create",
+                "task_name": task_name,
+                "timestamp": datetime.now().isoformat(),
+                "success": False
+            })
+            return None
+
     def save_operations_log(self):
         """Save the operations log for audit"""
         if self.operations_log:

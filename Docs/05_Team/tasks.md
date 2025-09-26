@@ -1,14 +1,20 @@
 # Tasks for Team
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 1**
+**Total Tasks: 3**
 
-## ⚪ Unprioritized (1)
+## Tasks
 
-### ⬜ Recruit and schedule 6-8 part-time wait staff/bartenders
+### ⬜ Build team culture and preparation
 
-**Created:** 2025-09-25  
+---
+
+### ⬜ Develop training and character programs
+
+---
+
+### ⬜ Recruit and hire staff team
 
 ---
 

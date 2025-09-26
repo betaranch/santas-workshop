@@ -1,29 +1,32 @@
 # Tasks for Vendors & Suppliers
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 3**
+**Total Tasks: 6**
 
-## 🔴 High Priority (1)
+## Tasks
 
-### ⬜ Procure themed plateware/glassware for 75 guests
-
-**Priority:** High  
-**Created:** 2025-09-25  
+### ⬜ Source decor and themed elements
 
 ---
 
-## ⚪ Unprioritized (2)
-
-### ⬜ Design and source merch (flasks, kits; $3.75K target)
-
-**Created:** 2025-09-25  
+### ⬜ Establish vendor relationships
 
 ---
 
-### ⬜ Source and quote rustic furniture/props (Cheerful Redesign, etc.)
+### ⬜ Procure furniture and equipment
 
-**Created:** 2025-09-25  
+---
+
+### ⬜ Source and contract F&B suppliers
+
+---
+
+### ⬜ Create service and safety protocols
+
+---
+
+### ⬜ Complete permits and licensing package
 
 ---
 

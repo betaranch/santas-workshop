@@ -1,0 +1,688 @@
+[
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8169-9647-cbc674404e1c",
+    "task_name": "Call City of Bend Planning (541-388-5580) for initial consultation",
+    "timestamp": "2025-09-25T16:03:59.956330",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-817c-a514-f4d780f96466",
+    "task_name": "Schedule fire marshal inspection for occupancy permit",
+    "timestamp": "2025-09-25T16:04:01.134236",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-818f-9b2f-da4835c05f4e",
+    "task_name": "Apply for OLCC temporary liquor license (8 week lead time!)",
+    "timestamp": "2025-09-25T16:04:07.302735",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d7-81b9-cd18cbfdf9ae",
+    "task_name": "Get quote for $2M liability insurance policy",
+    "timestamp": "2025-09-25T16:04:08.445787",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8106-b261-ece1873548d6",
+    "task_name": "File for temporary food service permit with Deschutes County",
+    "timestamp": "2025-09-25T16:04:09.546609",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81a0-b58c-fa1398d7a475",
+    "task_name": "Research if 'speakeasy' theme triggers special permits",
+    "timestamp": "2025-09-25T16:04:10.840518",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81b6-ba29-dc5d3f7622c6",
+    "task_name": "Draft customer liability waivers",
+    "timestamp": "2025-09-25T16:04:11.944695",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-814e-aad4-fc60e8fbfcfa",
+    "task_name": "Confirm ADA compliance requirements",
+    "timestamp": "2025-09-25T16:04:21.270899",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8109-ab86-f95bef7cce63",
+    "task_name": "Check noise ordinance restrictions for entertainment",
+    "timestamp": "2025-09-25T16:04:22.417141",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8126-871f-e58e6ec4a43c",
+    "task_name": "Verify parking requirements for 75 guests",
+    "timestamp": "2025-09-25T16:04:23.474745",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81a1-8cbd-eb56a17ab6ca",
+    "task_name": "Get business license from City of Bend",
+    "timestamp": "2025-09-25T16:04:25.584242",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81cc-89ed-c29a5c67040a",
+    "task_name": "File 'doing business as' (DBA) if needed",
+    "timestamp": "2025-09-25T16:04:26.902495",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8111-b82a-fb36305af69d",
+    "task_name": "Create scaled floor plan in Figma showing 75-person capacity",
+    "timestamp": "2025-09-25T16:04:28.059540",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81e3-aa3c-d12ff48738ce",
+    "task_name": "Map emergency exits and post evacuation routes",
+    "timestamp": "2025-09-25T16:04:29.094881",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8188-8740-ff640784b80f",
+    "task_name": "Design queue/waiting area for overflow",
+    "timestamp": "2025-09-25T16:04:30.363610",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-815c-b949-d8f93ebf8f02",
+    "task_name": "Plan coat check system for winter months",
+    "timestamp": "2025-09-25T16:04:33.453731",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8154-930c-e5b2cfdd3f91",
+    "task_name": "Calculate bathroom capacity (1 per 40 guests minimum)",
+    "timestamp": "2025-09-25T16:04:34.546726",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8196-88f1-da2477737e97",
+    "task_name": "Design bar layout for 2 bartenders working",
+    "timestamp": "2025-09-25T16:04:39.259927",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-811a-922b-f460e6fa569c",
+    "task_name": "Create storage plan for inventory",
+    "timestamp": "2025-09-25T16:04:43.138397",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d1-9dc7-cfa29fef556d",
+    "task_name": "Install temporary lighting for ambiance",
+    "timestamp": "2025-09-25T16:04:44.215039",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8148-b7ef-fa9e70697def",
+    "task_name": "Set up POS system and test credit card processing",
+    "timestamp": "2025-09-25T16:04:45.333242",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81a9-9959-ca68e84d5750",
+    "task_name": "Configure space heaters for 3,300 sq ft",
+    "timestamp": "2025-09-25T16:04:46.387043",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-811e-97b9-ddaa1fc0cdcc",
+    "task_name": "Build photo backdrop areas (minimum 3)",
+    "timestamp": "2025-09-25T16:04:47.489478",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81ec-aef4-da79a025195c",
+    "task_name": "Create daily setup checklist (45 min target)",
+    "timestamp": "2025-09-25T16:04:50.406082",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8150-b6b1-d9e8f8335636",
+    "task_name": "Design breakdown procedure (30 min target)",
+    "timestamp": "2025-09-25T16:04:51.423432",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-817e-82ce-fc14ae4d7352",
+    "task_name": "Write backstory: 'How elves party after hours'",
+    "timestamp": "2025-09-25T16:04:52.483523",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8139-bcf1-c9479c5abab2",
+    "task_name": "Create 5 character profiles for key staff roles",
+    "timestamp": "2025-09-25T16:04:54.862698",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d6-b98c-d351755430ba",
+    "task_name": "Design 'portal' entry experience from street",
+    "timestamp": "2025-09-25T16:05:00.068281",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8121-8e41-f501a5569d17",
+    "task_name": "Script surprise moments (every 15 min as per doctrine)",
+    "timestamp": "2025-09-25T16:05:04.223416",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-816a-a33f-c5fee4081912",
+    "task_name": "Create playlist mixing holiday with speakeasy jazz",
+    "timestamp": "2025-09-25T16:05:05.361014",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8168-a025-cb0a9d1ec36b",
+    "task_name": "Design menu with themed cocktail names",
+    "timestamp": "2025-09-25T16:05:09.006298",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8188-9f6b-c214638b9a62",
+    "task_name": "Source or create 'elf workshop' props",
+    "timestamp": "2025-09-25T16:05:10.085840",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81b2-ae0a-c5eb3c67f6ce",
+    "task_name": "Plan lighting design (warm, Instagram-worthy)",
+    "timestamp": "2025-09-25T16:05:11.700035",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81fd-8d95-f29fd7b2e900",
+    "task_name": "Create scent profile (pine, cinnamon, leather)",
+    "timestamp": "2025-09-25T16:05:12.799856",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8170-9d89-d2be02e13507",
+    "task_name": "Design take-home token (builds return visits)",
+    "timestamp": "2025-09-25T16:05:15.883249",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81b3-b7f9-d01f49c6072d",
+    "task_name": "Write social media photo captions bank",
+    "timestamp": "2025-09-25T16:05:16.996554",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-815a-ba4a-c70d5d5318ee",
+    "task_name": "Create 'secret password' system for entry",
+    "timestamp": "2025-09-25T16:05:18.089963",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-819c-96ea-f46697dae223",
+    "task_name": "Reserve Instagram handle @elfspeakeasybend",
+    "timestamp": "2025-09-25T16:05:19.120461",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-813d-9161-f50a3e0c4d15",
+    "task_name": "Design logo incorporating elf + prohibition elements",
+    "timestamp": "2025-09-25T16:05:20.235905",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8185-b963-f9901709a335",
+    "task_name": "Create 'soft opening' invite list (50 VIPs)",
+    "timestamp": "2025-09-25T16:05:21.276831",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8170-80da-de69c881f335",
+    "task_name": "Build simple booking website on Squarespace",
+    "timestamp": "2025-09-25T16:05:36.760592",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8145-8ef9-cc415949e58c",
+    "task_name": "Set up Resy or OpenTable for reservations",
+    "timestamp": "2025-09-25T16:05:37.809837",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81b8-9419-f21f97aa171a",
+    "task_name": "Price structure: $15 cocktails, $65 tasting menu",
+    "timestamp": "2025-09-25T16:05:40.765839",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8115-aa07-f0e0f9531d67",
+    "task_name": "Create press release for Bend Bulletin",
+    "timestamp": "2025-09-25T16:05:42.368644",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-815e-b4f4-e4b927e26a0b",
+    "task_name": "Contact 10 local influencers for opening week",
+    "timestamp": "2025-09-25T16:05:49.031991",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8147-96d7-f5fc1096d568",
+    "task_name": "Design corporate party packages ($2K minimum)",
+    "timestamp": "2025-09-25T16:05:51.417141",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d5-bea3-fbc3908f7087",
+    "task_name": "Create gift card/merchandise program",
+    "timestamp": "2025-09-25T16:05:52.621970",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8149-8408-f727f0413265",
+    "task_name": "Plan Black Friday promotion",
+    "timestamp": "2025-09-25T16:05:58.043199",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8185-96cb-d4f81ea4369c",
+    "task_name": "Set up Google Business listing",
+    "timestamp": "2025-09-25T16:06:01.651409",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81da-9e96-d252de6a1efa",
+    "task_name": "Create TikTok content calendar (3x per week)",
+    "timestamp": "2025-09-25T16:06:02.888745",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8185-a38c-ee32630c034c",
+    "task_name": "Write job descriptions: 2 bartenders, 4 servers, 2 hosts",
+    "timestamp": "2025-09-25T16:06:04.548096",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8148-9f03-e05e775a6290",
+    "task_name": "Post jobs on Bend Craigslist and Indeed",
+    "timestamp": "2025-09-25T16:06:05.633281",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81dd-9294-df024dbafb20",
+    "task_name": "Create interview questions testing personality fit",
+    "timestamp": "2025-09-25T16:06:09.609281",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-819f-bacd-e51c95026563",
+    "task_name": "Design 2-day training program",
+    "timestamp": "2025-09-25T16:06:10.741243",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8137-ab4c-dd3e0bcc46c3",
+    "task_name": "Create character sheets for staff roles",
+    "timestamp": "2025-09-25T16:06:11.813454",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8153-bede-ebfda59a5b78",
+    "task_name": "Source costume elements (elf ears, vests, etc.)",
+    "timestamp": "2025-09-25T16:06:12.951164",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81e9-b759-fee1e81f80c7",
+    "task_name": "Set up Homebase or When I Work for scheduling",
+    "timestamp": "2025-09-25T16:06:14.034311",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8124-a05c-c74573cc7aae",
+    "task_name": "Create tip pooling policy",
+    "timestamp": "2025-09-25T16:06:15.203428",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81eb-b34c-fe8c982a2016",
+    "task_name": "Write opening night run-of-show",
+    "timestamp": "2025-09-25T16:06:19.501197",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8193-89ba-dc70cee2308c",
+    "task_name": "Plan staff pre-shift meetings",
+    "timestamp": "2025-09-25T16:06:24.785595",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81ac-9ad0-fba488267732",
+    "task_name": "Create emergency contact list",
+    "timestamp": "2025-09-25T16:06:27.188894",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-818d-a611-f1e18bd375c6",
+    "task_name": "Design performance incentives",
+    "timestamp": "2025-09-25T16:06:28.274597",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8125-98a7-ef9d5eeef87e",
+    "task_name": "Open business checking at Chase or Wells Fargo",
+    "timestamp": "2025-09-25T16:06:29.546075",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81a8-8f06-d1cc6a9147fe",
+    "task_name": "Set up QuickBooks or Wave accounting",
+    "timestamp": "2025-09-25T16:06:30.573141",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81e2-8d3a-dbb17861ec0f",
+    "task_name": "Create weekly cash flow projection",
+    "timestamp": "2025-09-25T16:06:31.741646",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-815b-ab22-dc7b2c9c256c",
+    "task_name": "Calculate precise break-even (# covers per night)",
+    "timestamp": "2025-09-25T16:06:32.825723",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-814c-aa7b-e0c725ec2edf",
+    "task_name": "Negotiate net-30 terms with suppliers",
+    "timestamp": "2025-09-25T16:06:33.967776",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81e2-ad03-fa3c829ae619",
+    "task_name": "Set par levels: 3 days alcohol, 2 days food",
+    "timestamp": "2025-09-25T16:06:35.529029",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d1-b802-ea26b156b5fe",
+    "task_name": "Price COGS for each cocktail (target 18-22%)",
+    "timestamp": "2025-09-25T16:06:36.728846",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8105-a9cb-ee890c2c30f0",
+    "task_name": "Budget marketing spend ($5K opening month)",
+    "timestamp": "2025-09-25T16:06:38.649553",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81bb-8b65-fea9a7eda7f7",
+    "task_name": "Create daily manager cash-out procedure",
+    "timestamp": "2025-09-25T16:06:39.735208",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-817e-86dc-c64c45b5b361",
+    "task_name": "Set aside 10% contingency fund",
+    "timestamp": "2025-09-25T16:06:44.996533",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8177-91ad-da510b60043f",
+    "task_name": "Plan for 15% credit card fee impact",
+    "timestamp": "2025-09-25T16:06:46.049031",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8133-845e-d7201e2cfd38",
+    "task_name": "Create investor update template",
+    "timestamp": "2025-09-25T16:06:47.285897",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8184-ba8a-d4695f6337a2",
+    "task_name": "Get quotes from 3 alcohol distributors",
+    "timestamp": "2025-09-25T16:06:51.111696",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-811b-8a45-c7f97a14e1e9",
+    "task_name": "Source local spirits from Crater Lake/Bendistillery",
+    "timestamp": "2025-09-25T16:06:52.140815",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8191-94a2-e8dbde82b4cc",
+    "task_name": "Find commercial ice supplier (300 lbs/night)",
+    "timestamp": "2025-09-25T16:06:53.176025",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81ac-8504-ca0b7a6b5b12",
+    "task_name": "Source vintage glassware from Cheerful Redesign",
+    "timestamp": "2025-09-25T16:06:54.519324",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81ee-9908-e1dc5e09d892",
+    "task_name": "Get linen service quotes (tablecloths, napkins)",
+    "timestamp": "2025-09-25T16:06:55.559323",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81e7-b91d-ea56d7b87295",
+    "task_name": "Find local bakery for appetizer partnership",
+    "timestamp": "2025-09-25T16:06:56.664523",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8143-a09d-c982eb336562",
+    "task_name": "Source sustainable straws and napkins",
+    "timestamp": "2025-09-25T16:06:57.731510",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-819c-a88a-fd3815860d39",
+    "task_name": "Get cleaning supply wholesale account",
+    "timestamp": "2025-09-25T16:06:58.766732",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-819d-9ce5-e7d976739ebd",
+    "task_name": "Rent sound system from Epic Entertainment",
+    "timestamp": "2025-09-25T16:06:59.831715",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81da-af6c-c7412553b3fd",
+    "task_name": "Source photo booth from ShutterBooth PDX",
+    "timestamp": "2025-09-25T16:07:01.418341",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8188-8404-c808f0456cf8",
+    "task_name": "Get security system quote from ADT",
+    "timestamp": "2025-09-25T16:07:02.494888",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81cb-9d16-de4577018599",
+    "task_name": "Find snow removal service for parking",
+    "timestamp": "2025-09-25T16:07:03.546350",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8150-901c-ecb0f9f64e66",
+    "task_name": "Install Tripleseat for event tracking",
+    "timestamp": "2025-09-25T16:07:12.546655",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81b0-bc06-dc1be194f5c8",
+    "task_name": "Create post-visit email survey",
+    "timestamp": "2025-09-25T16:07:15.500152",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-817c-804b-cd8abace537c",
+    "task_name": "Set up NPS score tracking",
+    "timestamp": "2025-09-25T16:07:16.585547",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-814e-aa83-d30c2b7ba2a2",
+    "task_name": "Document all operating procedures",
+    "timestamp": "2025-09-25T16:07:17.618914",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81f1-8056-f49ff3e277ae",
+    "task_name": "Track hourly sales patterns",
+    "timestamp": "2025-09-25T16:07:18.710434",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8184-927b-fb63cb093e97",
+    "task_name": "Analyze cocktail mix (bestsellers)",
+    "timestamp": "2025-09-25T16:07:19.798973",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81d9-9ac0-c7eeb7a382c8",
+    "task_name": "Create monthly P&L review process",
+    "timestamp": "2025-09-25T16:07:21.798607",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-818d-8b4c-d71a28d1740a",
+    "task_name": "Plan 'traveling speakeasy' model",
+    "timestamp": "2025-09-25T16:07:22.946381",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-8161-bbec-dab940a454dc",
+    "task_name": "Research Portland expansion opportunity",
+    "timestamp": "2025-09-25T16:07:24.081417",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-819e-9a57-ee7ddc4165d4",
+    "task_name": "Document IP for potential licensing",
+    "timestamp": "2025-09-25T16:07:29.448612",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81ee-898b-e14ad7837648",
+    "task_name": "Create franchise operations manual",
+    "timestamp": "2025-09-25T16:07:30.886760",
+    "success": true
+  },
+  {
+    "action": "create",
+    "task_id": "279bc994-24ab-81a6-b0a6-f95d66a12b9c",
+    "task_name": "Plan year 2 improvements list",
+    "timestamp": "2025-09-25T16:07:31.958980",
+    "success": true
+  }
+]

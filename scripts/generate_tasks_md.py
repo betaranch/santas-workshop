@@ -18,23 +18,79 @@ class TaskGenerator:
         self.docs_dir = self.base_dir / "Docs"
         self.cache_dir = self.base_dir / "cache"
 
-        # Project keyword mappings
+        # Project keyword mappings - expanded for better coverage
         self.project_keywords = {
-            "01_Permits_Legal": ["permit", "legal", "license", "TCO", "zoning", "compliance", "insurance"],
-            "02_Space_Ops": ["space", "operation", "layout", "furniture", "floor plan", "setup", "venue"],
-            "03_Theme_Design_Story": ["theme", "design", "story", "vignette", "decoration", "figma", "aesthetic"],
-            "04_Marketing_Sales": ["marketing", "sales", "social", "instagram", "tiktok", "promotion", "pipeline", "corporate"],
-            "05_Team": ["staff", "team", "recruit", "hiring", "schedule", "training", "bartender", "wait staff"],
-            "06_Budget_Finance": ["budget", "finance", "expense", "revenue", "cost", "financing", "model", "track"],
-            "07_Vendors_Suppliers": ["vendor", "supplier", "procure", "source", "quote", "glassware", "plateware", "props"],
-            "08_Evaluation_Scaling": ["evaluation", "scaling", "metrics", "growth", "expansion", "feedback", "analysis"]
+            "01_Permits_Legal": [
+                "permit", "legal", "license", "TCO", "zoning", "compliance", "insurance",
+                "DBA", "liability", "waiver", "noise ordinance", "city of bend", "planning",
+                "ordinance", "filing", "business as"
+            ],
+            "02_Space_Ops": [
+                "space", "operation", "layout", "furniture", "floor plan", "setup", "venue",
+                "run-of-show", "parking", "bathroom", "capacity", "coat check", "emergency",
+                "exit", "evacuation", "cleaning", "storage", "inventory", "POS system",
+                "credit card processing", "manager", "procedure", "par level", "alcohol",
+                "food", "covers"
+            ],
+            "03_Theme_Design_Story": [
+                "theme", "design", "story", "vignette", "decoration", "figma", "aesthetic",
+                "password", "secret", "scent", "profile", "playlist", "jazz", "holiday",
+                "surprise", "moments", "photo", "backdrop", "lighting", "ambiance",
+                "pine", "cinnamon", "leather"
+            ],
+            "04_Marketing_Sales": [
+                "marketing", "sales", "social", "instagram", "tiktok", "promotion", "pipeline",
+                "corporate", "google business", "influencer", "press release", "bulletin",
+                "soft opening", "VIP", "invite", "reservation", "resy", "opentable",
+                "opening week", "press", "listing"
+            ],
+            "05_Team": [
+                "staff", "team", "recruit", "hiring", "schedule", "training", "bartender",
+                "wait staff", "emergency contact", "interview", "personality fit", "job",
+                "craigslist", "indeed", "tip pooling", "homebase", "when i work",
+                "scheduling", "policy", "questions"
+            ],
+            "06_Budget_Finance": [
+                "budget", "finance", "expense", "revenue", "cost", "financing", "model",
+                "track", "P&L", "profit", "loss", "credit card fee", "contingency fund",
+                "cash-out", "cash flow", "break-even", "quickbooks", "wave", "accounting",
+                "business checking", "chase", "wells fargo", "monthly", "weekly",
+                "projection", "15%", "10%"
+            ],
+            "07_Vendors_Suppliers": [
+                "vendor", "supplier", "procure", "source", "quote", "glassware", "plateware",
+                "props", "snow removal", "sound system", "epic entertainment", "rent",
+                "wholesale", "supply", "cleaning supply", "net-30", "terms", "ADT",
+                "security system", "linen", "ice", "spirits", "crater lake", "bendistillery",
+                "shutterboot", "sustainable", "straws", "napkins", "cheerful redesign"
+            ],
+            "08_Evaluation_Scaling": [
+                "evaluation", "scaling", "metrics", "growth", "expansion", "feedback",
+                "analysis", "year 2", "improvement", "investor update", "IP", "intellectual",
+                "property", "licensing", "document", "procedures", "post-visit", "survey",
+                "email", "NPS", "tripleseat", "event tracking", "portland"
+            ]
         }
 
         self.load_tasks()
 
     def load_tasks(self):
         """Load tasks from cached Notion data"""
-        # First try to load from notion_task_manager cache (most recent)
+        # Try content directory first (from notion.py sync) - most up-to-date
+        content_dir = self.cache_dir / "content"
+        if content_dir.exists():
+            # Look for tasks_*.json files from notion.py sync
+            task_files = sorted(content_dir.glob("tasks_*.json"))
+            if task_files:
+                # Use the most recent tasks file
+                latest_file = task_files[-1]
+                print(f"[INFO] Loading tasks from {latest_file.name}")
+                with open(latest_file, 'r', encoding='utf-8') as f:
+                    self.tasks = json.load(f)
+                print(f"[INFO] Loaded {len(self.tasks)} tasks from cache")
+                return
+
+        # Fallback to tasks directory
         tasks_dir = self.cache_dir / "tasks"
         if tasks_dir.exists():
             task_files = sorted(tasks_dir.glob("all_tasks_*.json"))
@@ -46,7 +102,7 @@ class TaskGenerator:
                     self.tasks = json.load(f)
                 return
 
-        # Fallback to content directory from notion.py sync
+        # Final fallback
         content_dir = self.cache_dir / "content"
         if not content_dir.exists():
             print("[ERROR] No cache/content directory. Run 'python scripts/notion.py sync' first.")
@@ -116,46 +172,13 @@ class TaskGenerator:
         if not tasks:
             return f"# Tasks for {project_name}\n\n*No tasks currently assigned to this project.*\n"
 
-        # Group by priority
-        high_priority = []
-        medium_priority = []
-        low_priority = []
-        no_priority = []
-
-        for t in tasks:
-            priority = self.extract_property_text(t.get("properties", {}), "Priority")
-            if priority and "High" in priority:
-                high_priority.append(t)
-            elif priority and "Medium" in priority:
-                medium_priority.append(t)
-            elif priority and "Low" in priority:
-                low_priority.append(t)
-            else:
-                no_priority.append(t)
-
         md = f"# Tasks for {project_name}\n\n"
         md += f"*Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}*\n\n"
         md += f"**Total Tasks: {len(tasks)}**\n\n"
+        md += f"## Tasks\n\n"
 
-        if high_priority:
-            md += f"## 🔴 High Priority ({len(high_priority)})\n\n"
-            for task in high_priority:
-                md += self.format_single_task(task)
-
-        if medium_priority:
-            md += f"## 🟡 Medium Priority ({len(medium_priority)})\n\n"
-            for task in medium_priority:
-                md += self.format_single_task(task)
-
-        if low_priority:
-            md += f"## 🟢 Low Priority ({len(low_priority)})\n\n"
-            for task in low_priority:
-                md += self.format_single_task(task)
-
-        if no_priority:
-            md += f"## ⚪ Unprioritized ({len(no_priority)})\n\n"
-            for task in no_priority:
-                md += self.format_single_task(task)
+        for task in tasks:
+            md += self.format_single_task(task)
 
         return md
 
@@ -169,7 +192,7 @@ class TaskGenerator:
         # Extract status
         status = props.get("Status", "Not started")
         if isinstance(status, dict):
-            status = status.get("select", {}).get("name", "Not started") if "select" in status else status
+            status = status.get("status", {}).get("name", "Not started") if "status" in status else status
         elif isinstance(status, str):
             pass  # Already a string
 
@@ -177,31 +200,15 @@ class TaskGenerator:
             "Not started": "⬜",
             "Not Started": "⬜",
             "In Progress": "🔄",
+            "In progress": "🔄",
             "Complete": "✅",
+            "Completed": "✅",
+            "Done": "✅",
             "Blocked": "🚫"
-        }.get(status, "❓")
+        }.get(status, "⬜")
 
         md = f"### {status_emoji} {task_name}\n\n"
-
-        # Extract and add metadata
-        priority = self.extract_property_text(props, "Priority")
-        if priority and "High" in priority:
-            priority = "High"
-        elif priority and "Medium" in priority:
-            priority = "Medium"
-        elif priority and "Low" in priority:
-            priority = "Low"
-
-        if priority:
-            md += f"**Priority:** {priority}  \n"
-
-        # Add created time
-        created = props.get("Created time", {})
-        if isinstance(created, dict) and "created_time" in created:
-            date_str = created["created_time"][:10]
-            md += f"**Created:** {date_str}  \n"
-
-        md += "\n---\n\n"
+        md += "---\n\n"
         return md
 
     def extract_property_text(self, props, key):

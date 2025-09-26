@@ -1,14 +1,24 @@
 # Tasks for Uncategorized
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 1**
+**Total Tasks: 4**
 
-## ⚪ Unprioritized (1)
+## Tasks
 
-### ⬜ New Task
+### ⬜ Create investor reporting framework
 
-**Created:** 2025-09-24  
+---
+
+### ⬜ Create reporting and monitoring processes
+
+---
+
+### ⬜ Establish banking and cash management
+
+---
+
+### ⬜ Create atmosphere and sensory package
 
 ---
 

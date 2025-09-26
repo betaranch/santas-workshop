@@ -10,7 +10,17 @@
       "Bash(do echo \"Syncing $project...\")",
       "Bash(done)",
       "Read(//d/**)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)",
+      "Bash(git push:*)",
+      "Bash(gh api:*)",
+      "Bash(curl:*)",
+      "Bash(git pull:*)",
+      "Bash(for:*)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(head:*)"
     ],
     "deny": [],
     "ask": []

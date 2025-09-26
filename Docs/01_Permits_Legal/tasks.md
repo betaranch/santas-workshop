@@ -1,15 +1,24 @@
 # Tasks for Permits & Legal
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 1**
+**Total Tasks: 4**
 
-## 🔴 High Priority (1)
+## Tasks
 
-### ⬜ Research and submit all planning permits (TCO, zoning variance)
+### ⬜ Design metrics and feedback systems
 
-**Priority:** High  
-**Created:** 2025-09-25  
+---
+
+### ⬜ Ensure venue compliance and safety
+
+---
+
+### ⬜ Establish insurance and liability coverage
+
+---
+
+### ⬜ Complete permits and licensing package
 
 ---
 

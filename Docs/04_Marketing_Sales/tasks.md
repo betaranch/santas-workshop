@@ -1,22 +1,24 @@
 # Tasks for Marketing & Sales
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 2**
+**Total Tasks: 4**
 
-## 🔴 High Priority (2)
+## Tasks
 
-### ⬜ Develop marketing calendar and assets (Insta/TikTok)
-
-**Priority:** High  
-**Created:** 2025-09-25  
+### ⬜ Develop corporate and group packages
 
 ---
 
-### ⬜ Build sales pipeline: 10 corp contacts for daytime events
+### ⬜ Build social media and content strategy
 
-**Priority:** High  
-**Created:** 2025-09-25  
+---
+
+### ⬜ Launch pre-sales and ticketing systems
+
+---
+
+### ⬜ Produce marketing and collateral materials
 
 ---
 

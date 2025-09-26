@@ -1,0 +1,482 @@
+[
+  {
+    "id": "27abc994-24ab-8154-96b2-df0bad40ea6f",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Create investor reporting framework",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-810c-9b7b-f95185f1efca",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop growth and expansion plans",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8120-9b87-e2305a52c5c7",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-810d-8442-c5489c07642b"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Design metrics and feedback systems",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-814b-a174-fca6ee24ea55",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Source decor and themed elements",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8120-b3d7-f75e8d50f2b5",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Establish vendor relationships",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81fa-9880-d1bc5f722925",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Procure furniture and equipment",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-812b-a428-d22cb3da08b9",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81c6-881f-ff284e6fe7c7"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Source and contract F&B suppliers",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8153-8b7d-f33665054eec",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Create reporting and monitoring processes",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8122-a862-f521dbbe065f",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Establish banking and cash management",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8110-8e4f-f4458b3324f5",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Set up accounting and tracking systems",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81ce-b274-e64fda97e100",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-80e9-8caa-f3ebf3b71cc9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Finalize budget and financial model",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8174-bdbd-d116d2f3957a",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Build team culture and preparation",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8158-9c32-d1d92822de9e",
+    "created": "2025-09-26T01:52:00.000Z",
+    "updated": "2025-09-26T01:52:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:52:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Create operational policies and systems",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-814f-adae-c08f1b335476",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop training and character programs",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81d3-a9dc-d9b6cb211f05",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8169-9f0c-cd764ec3a646"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Recruit and hire staff team",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8144-bde9-e63fd87baa46",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Execute PR and partnership outreach",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8151-b4b1-e46c83f7e02d",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop corporate and group packages",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81d5-9465-dd2980e18aa1",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Build social media and content strategy",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8101-816d-df1d172ee21a",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-819e-a7ed-d2d9b36722b1"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Launch pre-sales and ticketing systems",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-814a-8dd1-daa6f5df0291",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Produce marketing and collateral materials",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8196-b718-dd26ebc79744",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Create atmosphere and sensory package",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8166-8b12-ceb4a24cc3c1",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Design immersive environments and experiences",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8168-a970-d0723a021e46",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-818c-acaa-c5f9bfa5a10f"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Develop brand identity and story world",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81c7-a29b-f28deb6e0e8b",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Create service and safety protocols",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8143-9c82-f245db194d17",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Install equipment and infrastructure",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-814c-8423-e54468fca10c",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Establish operational systems and procedures",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-81d6-b2f7-fcfb7b81f6ad",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-8084-9709-f2c58e4f1665"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Design and finalize venue layout",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8180-99bd-dc61b2f1e883",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Ensure venue compliance and safety",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8182-918a-da874b226391",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Establish insurance and liability coverage",
+      "Due Date": null
+    }
+  },
+  {
+    "id": "27abc994-24ab-8121-b224-d871c5cb29a7",
+    "created": "2025-09-26T01:51:00.000Z",
+    "updated": "2025-09-26T01:51:00.000Z",
+    "properties": {
+      "Projects": [
+        "278bc994-24ab-81b1-9fcc-d252f2d2aef9"
+      ],
+      "Status": "Not started",
+      "Created time": "{'id': 'XFxt', 'type': 'created_time', 'created_time': '2025-09-26T01:51:00.000Z'}",
+      "Person": [],
+      "Priority": null,
+      "Name": "Complete permits and licensing package",
+      "Due Date": null
+    }
+  }
+]

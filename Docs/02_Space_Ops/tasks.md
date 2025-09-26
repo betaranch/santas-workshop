@@ -1,26 +1,28 @@
 # Tasks for Space & Operations
 
-*Generated: 2025-09-25 12:59*
+*Generated: 2025-09-25 18:55*
 
-**Total Tasks: 3**
+**Total Tasks: 5**
 
-## ⚪ Unprioritized (3)
+## Tasks
 
-### ⬜ Source and quote rustic furniture/props (Cheerful Redesign, etc.)
-
-**Created:** 2025-09-25  
+### ⬜ Procure furniture and equipment
 
 ---
 
-### ⬜ Finalize Figma floor plan and design mocks
-
-**Created:** 2025-09-25  
+### ⬜ Create operational policies and systems
 
 ---
 
-### ⬜ Develop and test 2 signature cocktails + appetizer pairings
+### ⬜ Establish operational systems and procedures
 
-**Created:** 2025-09-25  
+---
+
+### ⬜ Design and finalize venue layout
+
+---
+
+### ⬜ Ensure venue compliance and safety
 
 ---
 
