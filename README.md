@@ -1,20 +1,12 @@
 # 🎅 Santa's Workshop - Elf Speakeasy Pop-Up Project
 
-## Quick Start
-
-```bash
-# Before work: Pull from Notion
-python scripts/start_work.py
-
-# After work: Push to Notion
-python scripts/end_work.py
-```
-
-**For complete sync instructions → See [`SYNC_WORKFLOW.md`](SYNC_WORKFLOW.md)**
+> **ARCHIVED**: This project has been archived as of January 2026. See [ARCHIVED.md](ARCHIVED.md) for details.
 
 ## About
 
-Immersive holiday experience in Bend, Oregon (Nov 1, 2025 - Jan 1, 2026). This repository syncs with Notion for team collaboration.
+This repository contains planning materials for the **Elf Speakeasy Pop-Up** - an immersive holiday experience concept for Bend, Oregon (Nov 1, 2025 - Jan 1, 2026).
+
+The project combined hospitality, theater, and experiential design to create a "portal, not pop-up" holiday experience targeting adult evening guests with craft cocktails, daytime corporate events, and family weekends.
 
 ## Documentation Structure
 
@@ -41,12 +33,13 @@ Immersive holiday experience in Bend, Oregon (Nov 1, 2025 - Jan 1, 2026). This r
 Each contains: `README.md` (documentation) + `tasks.md` (current tasks)
 
 
-## Current Status
+## Project Summary
 
-- **Timeline**: 7 weeks to launch (Nov 1, 2025)
-- **Budget**: $53.5K costs → $105K revenue target
-- **Tasks**: 15 active (14 high priority)
-- **Critical Path**: Permits by Oct 31, Staff recruited
+- **Concept**: Immersive elf-themed speakeasy pop-up
+- **Location**: Bend, Oregon (evaluated 345 SW Century Dr, 3,300 sq ft)
+- **Timeline**: Nov 1, 2025 - Jan 1, 2026
+- **Budget**: $53.5K costs, $105K revenue target, $38K projected profit
+- **Audiences**: Evening adults (cocktails), daytime corporate, weekend families
 
 ## Documentation Doctrine
 
@@ -79,13 +72,20 @@ Each contains: `README.md` (documentation) + `tasks.md` (current tasks)
 - **Project content stays in project folders**: Not in root docs
 - **Commands in one place**: SYNC_WORKFLOW.md is the source
 
-## First Time Setup
+## Creative Philosophy
 
-1. Clone repo → 2. `pip install python-dotenv requests` → 3. Copy `.env.example` to `.env` → 4. Add Notion API key → 5. Run `python scripts/setup_synced_blocks.py`
+The project was built around these core principles:
+- **Portal, Not Pop-up**: Creating a world, not decorating a room
+- **Story-First Design**: Every element has narrative purpose
+- **Surprise Density**: Something unexpected every 15 minutes
+- **Photographic Magic**: Spaces designed for guest photos
 
-**Full setup guide → [`SYNC_WORKFLOW.md`](SYNC_WORKFLOW.md)**
+## Technical Stack
+
+- **Notion**: Central project hub for tasks/tracking
+- **GitHub**: Version control with automated snapshots
+- **Python Scripts**: Notion sync automation
 
 ---
 
-*Last Updated: September 25, 2025*
-*Version: 2.0 - Full bi-directional sync implemented*
+*Archived: January 2026*
